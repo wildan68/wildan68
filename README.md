@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wildan68
 - 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently learning PHP, HTML, JS and CSS
-- I'am Junior Vue + Nuxt Developer
+- 🌱 I’m currently learning HTML, JS and CSS
+- I'am Junior VueJs + NuxtJs Developer
 - 📫 How to reach me wildanrizkiyadi68@gmail.com
 
 <!---
